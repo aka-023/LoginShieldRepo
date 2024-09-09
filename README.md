@@ -11,7 +11,7 @@ Make sure you have Node.js and MongoDB installed on your device.
 Open your preferred code editor and navigate to the project directory.
 Install the required dependencies by running the following commands in the terminal:
 
-$ npm install express mongoose bcrypt ejs
+$ npm install
 
 **Running the Application**
 
